@@ -11,7 +11,8 @@ Hence, I have selected AWS S3 and AWS Athena to upload the census data in S3 and
 
 2) 
 To upload the Census Dataset into S3, following steps were performed. In the Upload - Select Files wizard, click Add Files.
-Select all of the files you downloaded and extracted, and then click Open.
+Select all of the files you downloaded and extracted, and then clicked Open.
+
 s3://inflows/county-to-county-2013-2017-current-residence-sort.xlsx
 
 s3://inflows/county-to-county-2013-2017-previous-residence-sort.xlsx
